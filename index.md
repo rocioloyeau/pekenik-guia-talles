@@ -87,5 +87,4 @@ Historial de commits de este repositorio (orden cronológico):
 3. `b562786` — fix: v2 de la guía con peso como dato clave y aviso de variación por marca
 4. `81bb13f` — docs: liga el fix al KPI 3 del plan de medición (% cambios por talle incorrecto)
 
-> Reemplazar `TU-USUARIO` por tu usuario real de GitHub una vez creado el repo:
-> `https://github.com/TU-USUARIO/pekenik-guia-talles/commits/main`
+Repositorio completo: https://github.com/rocioloyeau/pekenik-guia-talles/commits/main
